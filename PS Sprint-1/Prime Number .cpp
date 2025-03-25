@@ -1,4 +1,3 @@
-// Write a program to determine if a number is prime
 #include <iostream>
 #include<cmath>
 using namespace std;
